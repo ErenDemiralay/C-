@@ -1,0 +1,15 @@
+C:\Users\Eren\source\repos\Mp3\Mp3\bin\Debug\Mp3.exe.config
+C:\Users\Eren\source\repos\Mp3\Mp3\bin\Debug\Mp3.exe
+C:\Users\Eren\source\repos\Mp3\Mp3\bin\Debug\Mp3.pdb
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.Form1.resources
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.Properties.Resources.resources
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.exe
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.pdb
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eren\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.ResolveComReference.cache
+C:\Users\Eren\source\repos\Mp3\Mp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eren\source\repos\Mp3\Mp3\bin\Debug\AxInterop.WMPLib.dll
