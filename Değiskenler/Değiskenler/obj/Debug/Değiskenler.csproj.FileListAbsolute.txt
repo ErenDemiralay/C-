@@ -1,0 +1,9 @@
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\bin\Debug\Değiskenler.exe.config
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\bin\Debug\Değiskenler.exe
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\bin\Debug\Değiskenler.pdb
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.Form1.resources
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.Properties.Resources.resources
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.exe
+C:\Users\Eren\source\repos\Değiskenler\Değiskenler\obj\Debug\Değiskenler.pdb
