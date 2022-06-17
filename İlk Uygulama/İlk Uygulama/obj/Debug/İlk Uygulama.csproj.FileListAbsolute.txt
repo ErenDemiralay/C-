@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\bin\Debug\İlk Uygulama.exe.config
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\bin\Debug\İlk Uygulama.exe
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\bin\Debug\İlk Uygulama.pdb
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk Uygulama.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk_Uygulama.Form1.resources
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk_Uygulama.Properties.Resources.resources
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk Uygulama.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk Uygulama.exe
+C:\Users\Eren\source\repos\İlk Uygulama\İlk Uygulama\obj\Debug\İlk Uygulama.pdb
