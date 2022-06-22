@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\bin\Debug\Büyüktür Küçüktür uygulaması.exe.config
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\bin\Debug\Büyüktür Küçüktür uygulaması.exe
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\bin\Debug\Büyüktür Küçüktür uygulaması.pdb
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür Küçüktür uygulaması.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür_Küçüktür_uygulaması.Form1.resources
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür_Küçüktür_uygulaması.Properties.Resources.resources
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür Küçüktür uygulaması.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür Küçüktür uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür Küçüktür uygulaması.exe
+C:\Users\Eren\source\repos\Büyüktür Küçüktür uygulaması\Büyüktür Küçüktür uygulaması\obj\Debug\Büyüktür Küçüktür uygulaması.pdb
