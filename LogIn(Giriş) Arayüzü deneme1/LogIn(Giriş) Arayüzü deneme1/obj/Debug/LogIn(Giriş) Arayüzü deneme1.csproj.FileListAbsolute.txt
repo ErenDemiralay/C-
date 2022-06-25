@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\bin\Debug\LogIn(Giriş) Arayüzü deneme1.exe.config
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\bin\Debug\LogIn(Giriş) Arayüzü deneme1.exe
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\bin\Debug\LogIn(Giriş) Arayüzü deneme1.pdb
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn(Giriş) Arayüzü deneme1.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn_Giriş__Arayüzü_deneme1.Form1.resources
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn_Giriş__Arayüzü_deneme1.Properties.Resources.resources
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn(Giriş) Arayüzü deneme1.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn(Giriş) Arayüzü deneme1.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn(Giriş) Arayüzü deneme1.exe
+C:\Users\Eren\source\repos\LogIn(Giriş) Arayüzü deneme1\LogIn(Giriş) Arayüzü deneme1\obj\Debug\LogIn(Giriş) Arayüzü deneme1.pdb
