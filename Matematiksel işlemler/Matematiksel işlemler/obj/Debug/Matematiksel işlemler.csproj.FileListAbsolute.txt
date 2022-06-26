@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\bin\Debug\Matematiksel işlemler.exe.config
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\bin\Debug\Matematiksel işlemler.exe
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\bin\Debug\Matematiksel işlemler.pdb
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel işlemler.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel_işlemler.Form1.resources
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel_işlemler.Properties.Resources.resources
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel işlemler.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel işlemler.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel işlemler.exe
+C:\Users\Eren\source\repos\Matematiksel işlemler\Matematiksel işlemler\obj\Debug\Matematiksel işlemler.pdb
