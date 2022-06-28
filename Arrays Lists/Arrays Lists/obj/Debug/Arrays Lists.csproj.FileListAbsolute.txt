@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\bin\Debug\Arrays Lists.exe.config
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\bin\Debug\Arrays Lists.exe
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\bin\Debug\Arrays Lists.pdb
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays Lists.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays_Lists.Form1.resources
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays_Lists.Properties.Resources.resources
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays Lists.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays Lists.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays Lists.exe
+C:\Users\Eren\source\repos\Arrays Lists\Arrays Lists\obj\Debug\Arrays Lists.pdb
